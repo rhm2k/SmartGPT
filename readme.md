@@ -14,6 +14,15 @@
 
 # SmartGPT: Enhancing Text Generation with Dynamic Prompting
 
+# AFTER RECENT EVENTS I HAVE CHOSEN TO JUST MAKE THIS INTO A 'GPT' ON OPEN AI ASSISTANTS.
+
+# USE NOW. GPT: https://chat.openai.com/g/g-cKdGClb9l-smartgpt
+
+# THIS 'GPT' IN CHAT GPT HAS TOTS AND CHAIN OF THOUGHT. 
+
+
+# BELOW IS AN OLD PROJECT. PLEASE USE LINK ABOVE TO USE NOW IN CHATGPT. OR FEEL FREE TO CONTINUE.
+
 SmartGPT is a Node.js-based tool that introduces a dynamic prompting system to the world of AI-driven text generation. Informed by 'AI Explained' on YouTube, it generates multiple responses to a given prompt and evaluates their quality, thereby facilitating the creation of improved and more relevant AI responses.
 
 ## Why SmartGPT?
@@ -57,6 +66,8 @@ node server
 Once running, you will be prompted to input a number, specifying how many response options the program should generate and evaluate. While this number could be any positive integer, the efficiency of the evaluation may vary for numbers greater than 3, depending on the complexity of the prompt and topic.
 
 This article here showcases some Zero-Shot Failures of GPT that could be possibly solved with this system in the future: https://medium.com/@konstantine_45825/gpt-4-cant-reason-2eab795e2523
+
+https://benchmarks.llmonitor.com
 
 Questions related to summation or counting still have issues. This could easily be solved by adding a toolbelt like system to point the LLM at a set of tools to accomplish mathatical calculations. 
 
